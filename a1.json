@@ -1,0 +1,62 @@
+
+{
+
+    	"Datastructures":
+
+ 	   [
+
+        	{
+
+             	"Name": "tree",
+
+                "course":"Intro",
+
+                "content":["1","B","C"]
+
+        	},
+
+        	{
+
+            	"Name": "tree1",
+
+                "course":"Intro1",
+
+                "content":["1","B","C","d"]
+
+        	}
+
+    	],
+
+    	"xyz":
+
+    	{
+
+            "Name":"Graphics",
+
+            "Topic":["BFS","CDF","Sorting"]
+
+    	},
+
+        "FSD": [
+
+                {
+
+                "Topic": "HTML",
+
+                "course": "Beginer",
+
+                "content": ["tags", "table", "form"]
+
+                },
+
+                {
+
+                "Topic": "CSS",
+
+                "course": "Beginer",
+
+                "content": ["tags", "table", "form"]
+
+                }]
+
+}
